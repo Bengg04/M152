@@ -1,7 +1,6 @@
 // canvas is always a square
 const CANVAS_SIZE = 300;
 
-let image;
 let input;
 let output;
 
